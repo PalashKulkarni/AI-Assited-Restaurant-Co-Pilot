@@ -3,8 +3,13 @@
 A complete, dual-sided intelligent restaurant management solution built for the hackathon. This project features two main components working in tandem:
 1. **Part 1: Owner Intelligence Dashboard (Streamlit)** - A backend analytics suite for pricing, combo generation, and ML demand forecasting.
 2. **Part 2: AI Revenue Copilot (React)** - A 100% offline, WebGPU-powered Voice/Text Point-of-Sale (POS) interface for the restaurant staff.
-
 ---
+
+## 🚀 Live Deployments (For Judges)
+
+* **Module 1 (Owner Intelligence Dashboard):** [Launch Streamlit Analytics]()
+* **Module 2 (AI Revenue Copilot Front-End):** [Launch React Web App](https://ai-assited-restaurant-co-pilot.vercel.app/)
+
 
 ## Part 1: Owner Intelligence Dashboard (Backend Analytics)
 A powerful analytics suite built in Python that ingests POS data to optimize menu pricing, identify customer segments, and forecast future demand. 
