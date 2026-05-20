@@ -1,4 +1,5 @@
 # Petpooja AI Ecosystem 🍽️🤖
+### 🛠️ Developed by Palash Kulkarni
 
 A complete, dual-sided intelligent restaurant management solution built for the hackathon. This project features two main components working in tandem:
 1. **Part 1: Owner Intelligence Dashboard (Streamlit)** - A backend analytics suite for pricing, combo generation, and ML demand forecasting.
