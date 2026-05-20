@@ -7,7 +7,7 @@ A complete, dual-sided intelligent restaurant management solution built for the 
 
 ## 🚀 Live Deployments (For Judges)
 
-* **Module 1 (Owner Intelligence Dashboard):** [Launch Streamlit Analytics]()
+* **Module 1 (Owner Intelligence Dashboard):** [Launch Streamlit Analytics](https://airestaurantintelligenceplatform-sujz7rfo2psjuvzbxdghu4.streamlit.app/)
 * **Module 2 (AI Revenue Copilot Front-End):** [Launch React Web App](https://ai-assited-restaurant-co-pilot.vercel.app/)
 
 
